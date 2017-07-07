@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Mapa predmetov na matfyze (Informatika Bc. + Mgr.)</title>
+    <script src="libs/d3.v3.min.js"></script>
+    <script src="libs/sankey.js"></script>
+    <script src="libs/d3.chart.min.js"></script>
+    <script src="libs/d3.chart.sankey.min.js"></script>
+    <script src="product.js"></script>
+    <style>
+      body {
+        padding: 10px;
+        min-width: 600px;
+        max-width: 1800px;
+        margin: auto;
+      }
+      #chart {
+        /*height: 500px;*/
+        /*   @TODO FIX HEIGHT  */
+        height: 900px;
+        font: 13px sans-serif;
+      }
+      .node rect {
+        fill-opacity: .9;
+        shape-rendering: crispEdges;
+        stroke-width: 0;
+      }
+      .node text {
+        text-shadow: 0 1px 0 #fff;
+      }
+      .link {
+        fill: none;
+        stroke: #000;
+        stroke-opacity: .2;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="chart"></div>
+
+    <script>
+      function do_the_magic(error, json) {
+        var chart = d3.select("#chart").append("svg").chart("Sankey.Path");
+        chart
+          .name(label)
+          //.colorNodes(function(name, node) {
+          //  return color(node, 1) || colors.fallback;
+          //})
+          .colorNodes("lightgreen")
+          //.colorLinks(function(link) {
+          //  return color(link.source, 4) || color(link.target, 1) || colors.fallback;
+          //})
+          .colorLinks("lightgreen")
+          .nodeWidth(15)
+          .nodePadding(10)
+          .spread(false)
+          //.iterations(0)
+          .iterations(500)
+          .draw(json);
+        function label(node) {
+          if (node.shortname !== null && node.shortname.length > 0) {
+            return node.shortname;
+          }
+          else{
+            return node.name;
+          }
+        }
+        function color(node, depth) {
+          var id = node.id.replace(/(_score)?(_\d+)?$/, '');
+          if (colors[id]) {
+            return colors[id];
+          } else if (depth > 0 && node.targetLinks && node.targetLinks.length == 1) {
+            return color(node.targetLinks[0].source, depth-1);
+          } else {
+            return null;
+          }
+        }
+      }
+  
+    do_the_magic(null, json);
+    </script>
+  </body>
+</html>

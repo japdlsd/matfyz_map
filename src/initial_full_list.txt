@@ -1,0 +1,740 @@
+ID:1-MXX-110/00
+FULLNAME:Telesná výchova a šport (1)
+SHORTNAME:
+PREQS:
+
+ID:1-MXX-120/00
+FULLNAME:Telesná výchova a šport (2)
+SHORTNAME:
+PREQS:
+
+ID:1-MXX-232/10
+FULLNAME:Anglický jazyk (4)
+SHORTNAME:
+PREQS:
+
+ID:1-INF-110/00
+FULLNAME:Matematická analýza (1)
+SHORTNAME:
+PREQS:
+
+ID:1-INF-115/00
+FULLNAME:Algebra (1)
+SHORTNAME:
+PREQS:
+
+ID:1-INF-130/00
+FULLNAME:Princípy počítačov
+SHORTNAME:
+PREQS:
+
+ID:1-INF-120/00
+FULLNAME:Úvod do diskrétnych štruktúr
+SHORTNAME:
+PREQS:
+
+ID:1-INF-127/15
+FULLNAME:Programovanie (1) v C/C++
+SHORTNAME:
+PREQS:
+
+ID:1-INF-166/11
+FULLNAME:Programovanie (2) v Jave
+SHORTNAME:
+PREQS:1-INF-127/15
+
+ID:1-INF-160/00
+FULLNAME:Úvod do kombinatoriky a teórie grafov
+SHORTNAME:
+PREQS:1-INF-120/00
+
+ID:1-INF-150/00
+FULLNAME:Matematická analýza (2)
+SHORTNAME:
+PREQS:1-INF-110/00
+
+ID:1-INF-156/10
+FULLNAME:Algebra (2)
+SHORTNAME:
+PREQS:1-INF-115/00
+
+ID:1-INF-526/15
+FULLNAME:Systémové programovanie
+SHORTNAME:
+PREQS:
+
+ID:1-INF-220/00
+FULLNAME:Algoritmy a dátové štruktúry
+SHORTNAME:
+PREQS:
+
+ID:1-INF-210/00
+FULLNAME:Úvod do matematickej logiky
+SHORTNAME:
+PREQS:
+
+ID:1-INF-235/00
+FULLNAME:Ročníkový projekt (1)
+SHORTNAME:
+PREQS:
+
+ID:1-INF-230/00
+FULLNAME:Úvod do databázových systémov
+SHORTNAME:
+PREQS:
+
+ID:1-INF-225/15
+FULLNAME:Programovanie (3)
+SHORTNAME:
+PREQS:1-INF-127/15,1-INF-166/11
+
+ID:1-INF-215/14
+FULLNAME:Formálne jazyky a automaty (1)
+SHORTNAME:
+PREQS:
+
+ID:1-INF-171/15
+FULLNAME:Operačné systémy
+SHORTNAME:
+PREQS:
+
+ID:1-INF-283/15
+FULLNAME:Počítačové siete (1)
+SHORTNAME:
+PREQS:
+
+ID:1-INF-265/00
+FULLNAME:Ročníkový projekt (2)
+SHORTNAME:
+PREQS:1-INF-235/00
+
+ID:1-INF-310/00
+FULLNAME:Tvorba efektívnych algoritmov
+SHORTNAME:
+PREQS:1-INF-220/00,1-INF-160/00
+
+ID:1-INF-175/00
+FULLNAME:Spoločenské aspekty informatiky
+SHORTNAME:
+PREQS:
+
+ID:1-INF-516/15
+FULLNAME:Princípy tvorby softvéru
+SHORTNAME:
+PREQS:
+
+ID:1-INF-911/15
+FULLNAME:Bakalársky seminár (1)
+SHORTNAME:
+PREQS:
+
+ID:1-INF-167/15
+FULLNAME:Výpočtová zložitosť a vypočítateľnosť
+SHORTNAME:
+PREQS:
+
+ID:1-INF-920/15
+FULLNAME:Bakalársky seminár (2)
+SHORTNAME:
+PREQS:
+
+ID:1-MAT-551/10
+FULLNAME:Geometria pre grafikov (1)
+SHORTNAME:
+PREQS:
+
+ID:2-INF-178/15
+FULLNAME:Kryptológia (1)
+SHORTNAME:
+PREQS:
+
+ID:2-INF-177/15
+FULLNAME:Matematická analýza (3)
+SHORTNAME:
+PREQS:
+
+ID:1-BIN-301/15
+FULLNAME:Metódy v bioinformatike
+SHORTNAME:
+PREQS:
+
+ID:1-MAT-570/15
+FULLNAME:Modelovacie a renderovacie techniky
+SHORTNAME:
+PREQS:
+
+ID:2-INF-183/15
+FULLNAME:Počítačové siete (2)
+SHORTNAME:
+PREQS:
+
+ID:2-INF-175/15
+FULLNAME:Pravdepodobnosť a štatistika
+SHORTNAME:
+PREQS:
+
+ID:2-INF-174/15
+FULLNAME:Teória grafov
+SHORTNAME:
+PREQS:
+
+ID:2-INF-176/15
+FULLNAME:UNIX pre administrátorov
+SHORTNAME:
+PREQS:
+
+ID:1-MAT-560/00
+FULLNAME:Webovská grafika
+SHORTNAME:
+PREQS:
+
+ID:2-INF-182/15
+FULLNAME:Algebra (3)
+SHORTNAME:
+PREQS:
+
+ID:2-INF-186/15
+FULLNAME:Formálne jazyky a automaty (2)
+SHORTNAME:
+PREQS:
+
+ID:1-MAT-552/10
+FULLNAME:Geometria pre grafikov (2)
+SHORTNAME:
+PREQS:
+
+ID:1-INF-240/15
+FULLNAME:Grafické systémy, vizualizácia, multimédiá
+SHORTNAME:
+PREQS:
+
+ID:1-INF-420/15
+FULLNAME:Kombinatorická analýza (1)
+SHORTNAME:
+PREQS:1-INF-160/00
+
+ID:2-INF-184/15
+FULLNAME:Programovacie jazyky
+SHORTNAME:
+PREQS:
+
+ID:2-INF-145/15
+FULLNAME:Tvorba internetových aplikácií
+SHORTNAME:
+PREQS:
+
+ID:1-INF-520/00
+FULLNAME:Úvod do informačnej bezpečnosti
+SHORTNAME:
+PREQS:
+
+ID:2-INF-187/15
+FULLNAME:Úvod do teórie programovania
+SHORTNAME:
+PREQS:
+
+ID:1-INF-810/15
+FULLNAME:Rýchlostné programovanie (1)
+SHORTNAME:
+PREQS:
+
+ID:1-AIN-112/15
+FULLNAME:Úvod do webových technológií
+SHORTNAME:
+PREQS:
+
+ID:1-INF-615/10
+FULLNAME:Matematická propedeutika (1)
+SHORTNAME:
+PREQS:
+
+ID:1-INF-815/15
+FULLNAME:Rýchlostné programovanie (2)
+SHORTNAME:
+PREQS:
+
+ID:1-AIN-189/15
+FULLNAME:Webové aplikácie (1)
+SHORTNAME:
+PREQS:
+
+ID:1-INF-616/14
+FULLNAME:Matematická propedeutika (2)
+SHORTNAME:
+PREQS:
+
+ID:1-AIN-500/00
+FULLNAME:Linux pre používateľov
+SHORTNAME:
+PREQS:
+
+ID:1-AIN-510/15
+FULLNAME:Linux - princípy a prostriedky
+SHORTNAME:
+PREQS:
+
+ID:1-INF-820/15
+FULLNAME:Rýchlostné programovanie (3)
+SHORTNAME:
+PREQS:
+
+ID:1-INF-270/15
+FULLNAME:Databázové praktikum
+SHORTNAME:
+PREQS:
+
+ID:1-INF-825/15
+FULLNAME:Rýchlostné programovanie (4)
+SHORTNAME:
+PREQS:
+
+ID:1-INF-830/00
+FULLNAME:Rýchlostné programovanie (5)
+SHORTNAME:
+PREQS:
+
+ID:2-INF-130/00
+FULLNAME:Architektúry orientované na služby - princípy a technológie
+SHORTNAME:
+PREQS:
+
+ID:1-INF-311/00
+FULLNAME:Nové trendy personálnych počítačov
+SHORTNAME:
+PREQS:
+
+ID:2-INF-173/13
+FULLNAME:Kvantové spracovanie informácie
+SHORTNAME:
+PREQS:
+
+ID:2-INF-151/00
+FULLNAME:Biologicky motivovaná teória jazykov
+SHORTNAME:
+PREQS:
+
+ID:2-INF-270/15
+FULLNAME:Vývoj a hodnotenie používateľských rozhraní
+SHORTNAME:
+PREQS:
+
+ID:1-INF-315/14
+FULLNAME:Základy reverzného inžinierstva
+SHORTNAME:
+PREQS:
+
+ID:2-AIN-111/15
+FULLNAME:Webové technológie a metodológie
+SHORTNAME:
+PREQS:
+
+ID:1-INF-991/15
+FULLNAME:Bakalárska práca
+SHORTNAME:
+PREQS:
+
+ID:1-INF-951/15
+FULLNAME:Matematika
+SHORTNAME:
+PREQS:
+
+ID:1-INF-961/15
+FULLNAME:Informatika
+SHORTNAME:
+PREQS:
+
+ID:2-INF-920/00
+FULLNAME:Diplomový seminár (1)
+SHORTNAME:
+PREQS:
+
+ID:2-INF-166/15
+FULLNAME:Magisterský projekt
+SHORTNAME:
+PREQS:
+
+ID:2-INF-921/00
+FULLNAME:Diplomový seminár (2)
+SHORTNAME:
+PREQS:2-INF-920/00
+
+ID:2-INF-106/00
+FULLNAME:Informatika a spoločnosť
+SHORTNAME:
+PREQS:
+
+ID:2-INF-922/00
+FULLNAME:Diplomový seminár (3)
+SHORTNAME:
+PREQS:2-INF-921/00
+
+ID:2-INF-123/15
+FULLNAME:Formálna sémantika a teória správnosti
+SHORTNAME:
+PREQS:
+
+ID:2-INF-179/15
+FULLNAME:Konkurentné a distribuované programovanie a systémy (1)
+SHORTNAME:
+PREQS:
+
+ID:2-INF-150/15
+FULLNAME:Strojové učenie
+SHORTNAME:
+PREQS:
+
+ID:2-AIN-137/15
+FULLNAME:Umelá inteligencia
+SHORTNAME:
+PREQS:
+
+ID:2-INF-500/11
+FULLNAME:Databázy
+SHORTNAME:
+PREQS:
+
+ID:2-INF-231/00
+FULLNAME:Efektívne paralelné algoritmy
+SHORTNAME:
+PREQS:
+
+ID:2-INF-185/15
+FULLNAME:Integrácia dátových zdrojov
+SHORTNAME:
+PREQS:
+
+ID:2-INF-114/00
+FULLNAME:Matematická logika
+SHORTNAME:
+PREQS:
+
+ID:2-INF-181/15
+FULLNAME:Numerická matematika
+SHORTNAME:
+PREQS:
+
+ID:2-INF-133/00
+FULLNAME:Pravdepodobnostné metódy
+SHORTNAME:
+PREQS:
+
+ID:2-INF-237/00
+FULLNAME:Vybrané partie z dátových štruktúr
+SHORTNAME:
+PREQS:
+
+ID:2-INF-221/15
+FULLNAME:Aproximácia optimalizačných problémov
+SHORTNAME:
+PREQS:
+
+ID:2-INF-113/00
+FULLNAME:Kombinatorická analýza (2)
+SHORTNAME:
+PREQS:
+
+ID:2-INF-155/00
+FULLNAME:Kombinatorické štruktúry
+SHORTNAME:
+PREQS:
+
+ID:2-INF-144/15
+FULLNAME:Kompilátory
+SHORTNAME:
+PREQS:
+
+ID:2-INF-222/00
+FULLNAME:Objektová analýza a modelovanie
+SHORTNAME:
+PREQS:
+
+ID:1-EFM-340/13
+FULLNAME:Počítačová štatistika
+SHORTNAME:
+PREQS:1-MAT-282/00,2-INF-175/15
+
+ID:2-INF-223/15
+FULLNAME:Riadenie IT bezpečnosti
+SHORTNAME:
+PREQS:
+
+ID:2-INF-224/15
+FULLNAME:Teória informácie a teória kódovania (1)
+SHORTNAME:
+PREQS:
+
+ID:2-INF-122/00
+FULLNAME:Teória paralelných výpočtov
+SHORTNAME:
+PREQS:
+
+ID:2-INF-267/15
+FULLNAME:Pokročilé efektívne algoritmy
+SHORTNAME:
+PREQS:
+
+ID:2-INF-262/15
+FULLNAME:Bezpečnosť IT infraštruktúry
+SHORTNAME:
+PREQS:
+
+ID:2-INF-127/00
+FULLNAME:Formálne špecifikácie
+SHORTNAME:
+PREQS:
+
+ID:2-INF-180/15
+FULLNAME:Konkurentné a distribuované programovanie a systémy (2)
+SHORTNAME:
+PREQS:
+
+ID:2-INF-235/15
+FULLNAME:Kryptológia (2)
+SHORTNAME:
+PREQS:
+
+ID:2-INF-126/00
+FULLNAME:Modely konkurentných systémov
+SHORTNAME:
+PREQS:
+
+ID:2-AIN-132/15
+FULLNAME:Neurónové siete
+SHORTNAME:
+PREQS:
+
+ID:2-INF-135/15
+FULLNAME:Pravdepodobnostné algoritmy
+SHORTNAME:
+PREQS:
+
+ID:2-INF-225/15
+FULLNAME:Teória informácie a teória kódovania (2)
+SHORTNAME:
+PREQS:2-INF-224/15
+
+ID:2-INF-121/15
+FULLNAME:Teória vypočítateľnosti
+SHORTNAME:
+PREQS:
+
+ID:2-INF-156/00
+FULLNAME:Vybrané partie z teórie jazykov
+SHORTNAME:
+PREQS:
+
+ID:2-INF-269/15
+FULLNAME:Genomika
+SHORTNAME:
+PREQS:
+
+ID:2-INF-268/15
+FULLNAME:Databázové paradigmy
+SHORTNAME:
+PREQS:
+
+ID:2-AIN-254/15
+FULLNAME:Fuzzy inferencia a expertné systémy
+SHORTNAME:
+PREQS:
+
+ID:2-INF-163/00
+FULLNAME:Kolmogorovská zložitosť
+SHORTNAME:
+PREQS:
+
+ID:2-AIN-206/15
+FULLNAME:Matematické modelovanie a počítačová animácia fyzikálnych procesov
+SHORTNAME:
+PREQS:
+
+ID:2-INF-169/00
+FULLNAME:Proseminár z informatiky (1)
+SHORTNAME:
+PREQS:
+
+ID:2-AIN-505/10
+FULLNAME:Seminár z bioinformatiky (1)
+SHORTNAME:
+PREQS:
+
+ID:2-AIN-251/10
+FULLNAME:Seminár z bioinformatiky (3)
+SHORTNAME:
+PREQS:
+
+ID:2-INF-264/15
+FULLNAME:Teória deklaratívneho programovania
+SHORTNAME:
+PREQS:
+
+ID:2-INF-132/15
+FULLNAME:Úvod do distribuovaných algoritmov
+SHORTNAME:
+PREQS:
+
+ID:2-MPG-101/00
+FULLNAME:Počítačová grafika (1)
+SHORTNAME:
+PREQS:
+
+ID:2-AIN-112/15
+FULLNAME:Pokročilé spracovanie obrazu
+SHORTNAME:
+PREQS:
+
+ID:2-MPG-203/00
+FULLNAME:Výpočtová geometria
+SHORTNAME:
+PREQS:
+
+ID:2-INF-261/11
+FULLNAME:IT Based Supply Networks
+SHORTNAME:
+PREQS:
+
+ID:1-AIN-168/15
+FULLNAME:Webové aplikácie v praxi
+SHORTNAME:
+PREQS:
+
+ID:2-AIN-108/15
+FULLNAME:Výpočtová logika
+SHORTNAME:
+PREQS:
+
+ID:2-INF-271/16
+FULLNAME:Vybrané technológie analýzy dát
+SHORTNAME:
+PREQS:
+
+ID:2-INF-272/16
+FULLNAME:Praktikum zo strojového učenia
+SHORTNAME:
+PREQS:
+
+ID:1-AIN-470/15
+FULLNAME:Špecifikácia a verifikácia programov
+SHORTNAME:
+PREQS:
+
+ID:2-AIN-253/15
+FULLNAME:Logické programovanie ASP
+SHORTNAME:
+PREQS:2-AIN-108/15
+
+ID:2-INF-265/15
+FULLNAME:Deklaratívne programovanie
+SHORTNAME:
+PREQS:
+
+ID:2-INF-154/00
+FULLNAME:Enumerácia diskrétnych štruktúr
+SHORTNAME:
+PREQS:
+
+ID:2-INF-164/00
+FULLNAME:IT Quality Management
+SHORTNAME:
+PREQS:
+
+ID:2-INF-165/00
+FULLNAME:Manažment softvérových projektov
+SHORTNAME:
+PREQS:
+
+ID:2-INF-236/00
+FULLNAME:Objektové softwareové inžinierstvo
+SHORTNAME:
+PREQS:2-INF-222/00
+
+ID:2-INF-266/15
+FULLNAME:Pokročilá administrácia Linuxu
+SHORTNAME:
+PREQS:
+
+ID:2-INF-172/12
+FULLNAME:Použitie systémov počítačovej algebry
+SHORTNAME:
+PREQS:
+
+ID:2-AIN-109/15
+FULLNAME:Programovanie paralelných a distribuovaných systémov
+SHORTNAME:
+PREQS:
+
+ID:2-INF-170/00
+FULLNAME:Proseminár z informatiky (2)
+SHORTNAME:
+PREQS:
+
+ID:2-AIN-506/10
+FULLNAME:Seminár z bioinformatiky (2)
+SHORTNAME:
+PREQS:
+
+ID:2-AIN-252/10
+FULLNAME:Seminár z bioinformatiky (4)
+SHORTNAME:
+PREQS:
+
+ID:2-INF-263/15
+FULLNAME:Tvorba a dizajn počítačových hier
+SHORTNAME:
+PREQS:
+
+ID:2-AIN-238/15
+FULLNAME:Grafové modely v strojovom učení
+SHORTNAME:
+PREQS:
+
+ID:2-MPG-102/00
+FULLNAME:Počítačová grafika (2)
+SHORTNAME:
+PREQS:2-MPG-101/00
+
+ID:1-MMN-255/00
+FULLNAME:Lineárne programovanie
+SHORTNAME:
+PREQS:1-MMN-160/00,1-INF-156/10
+
+ID:2-AIN-116/14
+FULLNAME:Funkcionálne programovanie
+SHORTNAME:
+PREQS:
+
+ID:2-AIN-286/15
+FULLNAME:Ontológie a znalostné inžinierstvo
+SHORTNAME:
+PREQS:2-AIN-108/15
+
+ID:2-INF-273/16
+FULLNAME:Vybrané kapitoly z informačnej bezpečnosti
+SHORTNAME:
+PREQS:
+
+ID:2-INF-991/15
+FULLNAME:Obhajoba záverečnej práce
+SHORTNAME:
+PREQS:
+
+ID:2-INF-952/15
+FULLNAME:Počítačová bezpečnosť
+SHORTNAME:
+PREQS:2-INF-262/15,2-INF-178/15,2-INF-223/15,2-INF-183/15,2-INF-176/15,2-INF-224/15,2-INF-225/15
+
+ID:2-INF-953/15
+FULLNAME:Bioinformatika a strojové učenie
+SHORTNAME:
+PREQS:2-INF-185/15,1-BIN-301/15,2-AIN-132/15,2-INF-221/15,2-INF-237/00,2-INF-175/15,2-INF-150/15,2-INF-269/15
+
+ID:2-INF-954/15
+FULLNAME:Programové a informačné systémy
+SHORTNAME:
+PREQS:2-INF-500/11,2-INF-144/15,2-INF-222/00,2-INF-183/15,2-INF-145/15,2-INF-184/15
+
+ID:2-INF-955/15
+FULLNAME:Teoretická informatika
+SHORTNAME:
+PREQS:2-INF-186/15,2-INF-155/00,2-INF-221/15,2-INF-237/00,2-INF-135/15,2-INF-174/15,2-INF-121/15,2-INF-175/15
+
