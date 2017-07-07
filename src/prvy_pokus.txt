@@ -419,7 +419,7 @@ PREQS:1-BIN-301/15,2-INF-185/15
 ID:2-INF-268/15
 FULLNAME:Databázové paradigmy
 SHORTNAME:
-PREQS:2-AIN-116/14
+PREQS:1-INF-230/00
 
 ID:2-AIN-254/15
 FULLNAME:Fuzzy inferencia a expertné systémy
