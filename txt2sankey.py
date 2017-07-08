@@ -27,11 +27,16 @@ def main():
         return 1
 
     #nodes = [{"id": i, "name": dato["fullname"], "shortname": dato["shortname"]} for i, dato in enumerate(data)]
+    def short_id(idd):
+        if idd[-3] == "/": return idd[:-3]
+        return idd
+    print(short_id("1-INF-110/12"))
+
     nodes = [
         {
             "id": i, 
-            "name": dato["id"] + " " + dato["fullname"], 
-            "shortname": dato["id"] + " " + dato["shortname"] if len(dato["shortname"]) > 0 else "",
+            "name": short_id(dato["id"]) + " " + dato["fullname"], 
+            "shortname": short_id(dato["id"]) + " " + dato["shortname"] if len(dato["shortname"]) > 0 else "",
             "charge": get_charge(dato)
         } 
     for i, dato in enumerate(data)]
